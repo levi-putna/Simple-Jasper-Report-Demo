@@ -1,5 +1,6 @@
 ## java specific
 *.class
+*/bin/
 
 ## generic files to ignore
 *~
